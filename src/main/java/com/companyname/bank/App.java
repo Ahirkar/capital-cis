@@ -6,7 +6,7 @@ package com.companyname.bank;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static void main( String[] hhargs )
     {
         System.out.println( "scm okkkk");
     }
