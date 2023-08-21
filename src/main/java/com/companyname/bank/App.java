@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] hhargs )
     {
-        System.out.println( "scm okkkk");
+        System.out.println( "scm ok kkk");
     }
 }
